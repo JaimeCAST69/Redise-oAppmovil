@@ -247,7 +247,7 @@ export default function Home({ route }) {
                     <Tab.Navigator
                         screenOptions={{
                             tabBarActiveTintColor: 'black',
-                            tabBarInactiveTintColor: 'black',
+                            tabBarInactiveTintColor: 'white',
                             tabBarStyle: { backgroundColor: 'transparent' },
                         }}
                     >
